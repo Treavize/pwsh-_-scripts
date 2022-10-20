@@ -1,2 +1,2 @@
-# pwsh-_-scripts
+# >_pwsh_scripts
 Collection of PowerShell scripts that I find useful for work and play.
